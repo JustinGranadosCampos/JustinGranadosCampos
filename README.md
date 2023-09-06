@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JustinGranadosCampos
 - 👀 I’m interested in software & web development
-- 🌱 I’m currently learning PHP, Javascript & Python
-- 💞️ I would like to learn React JS
+- 🌱 I’m currently learning Javascript (MERN Stack), Python (FastAPI)
+- 💞️ I would like to learn some DevOps technologies
 
 <!---
 JustinGranadosCampos/JustinGranadosCampos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
